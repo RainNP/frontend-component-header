@@ -57,6 +57,7 @@ const LearningHeader = ({
         <AnonymousUserMenu />
         )}
       </div>
+      <div className="banner" style={{width: '50px', height: '50px', backgroundColor: 'black'}}></div>
     </header>
   );
 };
